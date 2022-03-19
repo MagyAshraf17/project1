@@ -1,0 +1,265 @@
+             /*
+        for header bar 
+        */
+             
+             .magy {
+                 color: rgb(80, 216, 175);
+             }
+             
+             .for-headn {
+                 font-size: 1em;
+                 padding-left: 2em;
+             }
+             
+             nav ul li {
+                 font-size: 1.25em;
+                 margin: auto;
+                 font-weight: bolder;
+             }
+             
+             .navbar-brand {
+                 box-sizing: border-box;
+                 font-size: 2em;
+                 margin: auto;
+                 color: #0c2e8a;
+                 font-weight: bolder;
+             }
+             /*
+        carousl profile 
+        change it in meta tag
+        */
+             
+             .your-idea {
+                 color: rgb(80, 216, 175);
+                 font-weight: bolder;
+                 font-size: 4em;
+                 margin-right: 0em;
+                 padding-right: 0em;
+                 text-decoration: underline;
+                 display: inline;
+             }
+             
+             .carousel-indicators {
+                 display: none;
+             }
+             
+             .make-happen {
+                 font-size: 4em;
+                 color: #0c2e8a;
+                 font-weight: bolder;
+                 margin-right: 0em;
+                 padding-right: 0em;
+             }
+             
+             .butt2 {
+                 background-color: #0c2e8a;
+                 font-weight: bold;
+                 font-family: Arial, Helvetica, sans-serif;
+             }
+             
+             .butt1 {
+                 background-color: #0c2e8a;
+                 font-weight: bold;
+                 font-family: Arial, Helvetica, sans-serif;
+             }
+             
+             .for-profile {
+                 display: none;
+             }
+             
+             .img.carousel-inner {
+                 width: 100%;
+                 height: 50em;
+                 display: none;
+             }
+             
+             h2 {
+                 color: #0c2e8a;
+             }
+             
+             .inbt {
+                 font-style: italic;
+                 font-family: Arial;
+                 font-size: 1em;
+             }
+             
+             ul {
+                 list-style-type: none;
+                 padding: 0em;
+             }
+             
+             .forlist {
+                 color: rgb(80, 216, 175);
+             }
+             
+             .card-icons {
+                 box-sizing: border-box;
+             }
+             
+             .all-hdr-p {
+                 box-sizing: border-box;
+                 padding-left: 2em;
+                 color: #0c2e8a;
+                 font-weight: bolder;
+             }
+             
+             .reval-slider {
+                 height: 25em;
+                 opacity: 0.2;
+             }
+             
+            
+              .intro-content 
+             .btn-get-started
+              .btn-projects 
+              #intro {
+                 
+                     font-family: "Raleway", sans-serif;
+                     font-size: 15px;
+                     font-weight: bold;
+                     letter-spacing: 1px;
+                     display: inline-block;
+                     padding: 10px 32px;
+                     border-radius: 2px;
+                     transition: 0.5s;
+                     margin: 10px;
+                     color: #fff;
+                 
+             }
+             
+             .icons {
+                 display: inline;
+                 width: auto;
+                 height:auto;
+                 color: rgb(80, 216, 175);
+                 font-size: 2em;
+             }
+             
+             .card-icons {
+                 box-sizing: border-box;
+                 margin-top: 3em;
+                 margin-bottom: 3em;
+                 margin-left: 2em;
+                 margin-right: 2em;
+             }
+             
+             .imgs {
+                 box-sizing: border-box;
+                 padding: 0%;
+                 margin: 0%;
+                 display: inline-block;
+                 justify-content: center;
+             }
+             /*
+        large part
+        */
+             
+             .lrg-part {
+                 box-sizing: border-box;
+                
+                 
+                 display: inline;
+             }
+             /*
+
+For personal profile cards
+*/
+             
+             .all {
+                 box-sizing: border-box;
+                 margin: auto;
+                 justify-content: center;
+             }
+             
+             .all .carousel-indicators li {
+                 background: gray;
+                 width: 20px;
+                 border-radius: 10px;
+             }
+             
+             .all .carousel-indicators {
+                 margin-bottom: -30px;
+                 display: none;
+             }
+             
+             .all .controls-top {
+                 text-align: center;
+                 display: none;
+             }
+             
+             .all .controls-top a {
+                 margin-right: 20px;
+                 font-weight: bold;
+                 font-size: 25px;
+             }
+             
+             .all .card-text {
+                 font-size: 1em;
+                 margin: auto;
+                 box-sizing: border-box;
+             }
+             
+             .all .card-title {
+                 box-sizing: border-box;
+                 margin: auto;
+             }
+             /*
+             all paragraph and headers 
+             */
+             
+             .all-head {
+                 font-weight: bold;
+                 color: #0c2e8a;
+             }
+             
+             .blue-part {
+                 background-color: #0c2e8a;
+                 color: white;
+             }
+             
+             .last-butt {
+             display: inline-block;
+         
+               margin-top: 0px;
+               margin-left: 140px;
+               margin-bottom: 70px;
+             
+                 
+             }
+
+             /* 
+             contact us
+             */
+              .spc{
+                  font-size: 100px;
+                  font: weight 0.5;
+              }
+              .fntsom{
+                  font-size: 40px;
+                  justify-content: center;
+                  color:rgb(28, 219, 155);
+                  
+
+              }
+              .mess-butt      {
+               font-size: 30px;
+               margin-left:550px;
+               margin-right: 550px;
+               margin-top: 20px;
+                
+            }  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

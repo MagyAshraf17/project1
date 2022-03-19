@@ -1,0 +1,37 @@
+@media all and (max-width: 1024px) and (min-width:320px) {
+    .for-headn {
+        display: none;
+    }
+    .your-idea {
+        font-size: 2em;
+    }
+    .make-happen {
+        font-size: 2em;
+    }
+    .butt2 {
+        font-size: 1em;
+        width: 7em;
+        height: 4em;
+    }
+    .butt1 {
+        font-size: 1em;
+        width: 6em;
+        height: 4em;
+    }
+    .last-butt{
+        margin:30px;
+                margin-top: 10px;
+                margin-left: 250px;
+                        width: 170px;
+                        height:50px ;
+                 }
+                 .mess-butt      {
+                    margin-left:190px;
+                    margin-right: 210px;
+                    margin-top: 10px;
+                    
+                            width: 170px;
+                            height:50px ;
+                }     
+
+    }

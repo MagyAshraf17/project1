@@ -1,0 +1,40 @@
+        @media all and (max-width: 1024px) and (min-width: 720px) {
+            .for-headn {
+                display: none;
+            }
+            .your-idea {
+                font-size: 3em;
+            }
+            .make-happen {
+                font-size: 3em;
+            }
+            .butt2 {
+                width: 8em;
+                height: 2em;
+
+            }
+            .butt1 {
+                width: 7em;
+                height: 2em;
+            }
+
+            .blue-part {
+              text-align: center;
+        
+            }
+        .last-butt{
+                margin:30px;
+                margin-top: 10px;
+                margin-left: 600px;
+                        width: 170px;
+                        height:50px ;
+                        }
+        .mess-butt      {
+            margin-left:250px;
+            margin-right: 250px;
+            margin-top: 10px;
+            
+                    width: 170px;
+                    height:50px ;
+        }     
+        }

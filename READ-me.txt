@@ -1,0 +1,34 @@
+html5
+
+header 
+nav
+section 
+footer
+
+CSS3
+     display: inline-block;
+                 justify-content: center;
+    		 box-sizing: border-box;
+                 
+                 margin: auto;
+                 color: #0c2e8a;
+                 font-weight:
+                
+                 font-size: 
+                 margin-right:
+                 padding-right: 
+                 text-decoration:
+                 display: 
+           	
+         	  font-family:
+                     font-size:
+                      letter-spacing:
+
+and other diffrent features like #animations 
+
+js jquery
+mouseover
+mouseout
+
+ 
+                 
